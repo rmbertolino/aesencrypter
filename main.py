@@ -1,13 +1,3 @@
-# aesencrypter
-Use of aesencrypter
-
-Source
-https://pypi.org/project/aesencrypter/
-
-Install
-pip install aesencrypter
-
-Use:
 from aesencrypter import EncryptString, DecryptString
 
 plain_string = "Hello, World!"
